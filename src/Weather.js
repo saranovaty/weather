@@ -86,6 +86,15 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <span className="creator">
+        <a
+          href="https://github.com/saranovaty/weather/tree/master/src"
+          target="_blank"
+        >
+          Open source code
+        </a>
+        , by Sara Novati
+      </span>
     </div>
   );
 }
