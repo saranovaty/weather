@@ -62,13 +62,10 @@ export default function Weather() {
               <div className="temperature">
                 10
                 <span className="celsius">
-                  <a href="#" className="active">
-                    °C
-                  </a>{" "}
-                  |
-                  <a href="#" className="active">
+                  <span className="active">°C</span> |
+                  <span href="#" className="active">
                     °F
-                  </a>
+                  </span>
                 </span>
               </div>
             </div>
