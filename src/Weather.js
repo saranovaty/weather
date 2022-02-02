@@ -90,6 +90,7 @@ export default function Weather() {
         <a
           href="https://github.com/saranovaty/weather/tree/master/src"
           target="_blank"
+          rel="noreferrer"
         >
           Open source code
         </a>
