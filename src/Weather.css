@@ -1,0 +1,105 @@
+.container {
+  max-width: 676px;
+  max-height: 451px;
+  margin: 0 auto;
+  display: block;
+}
+
+.card {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+  border: 2px solid #ffc93c;
+  border-radius: 5px;
+}
+
+.btn {
+  line-height: 17px;
+  position: relative;
+  right: -10px;
+}
+.cerca {
+  color: #fd7042;
+  background-color: #feedd5;
+  position: relative;
+  right: -200px;
+  top: -20px;
+}
+
+.capital {
+  font-size: 60px;
+  position: relative;
+  left: 40px;
+  color: #155263;
+  margin-bottom: 0px;
+}
+
+.day {
+  position: relative;
+  left: 50px;
+  font-size: 17px;
+}
+
+.condition {
+  font-size: 18px;
+  text-transform: capitalize;
+  font-size: 17px;
+}
+
+.nuvola {
+  position: relative;
+  left: 40px;
+  top: 30px;
+}
+
+.current {
+  position: relative;
+  right: -270px;
+  top: -43px;
+  background: #ff9a3c;
+}
+
+.card {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+  border: 2px solid #ffc93c;
+  border-radius: 5px;
+}
+
+.info {
+  position: relative;
+  right: -500px;
+  top: -130px;
+}
+
+.active {
+  text-decoration: none;
+}
+.celsius {
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+  top: -40px;
+  right: -3px;
+}
+
+.temperature {
+  font-size: 70px;
+  position: relative;
+  right: -120px;
+  top: -40px;
+  color: #155263;
+  margin-bottom: 0px;
+}
+
+.data {
+  font-size: 19px;
+  position: relative;
+  right: 35px;
+  top: 25px;
+}
+
+.col {
+  position: relative;
+  left: 30px;
+  top: 2px;
+}
